@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+fraud_env/
+.vscode/
+
+# Local datasets
+sample_data/*.csv
